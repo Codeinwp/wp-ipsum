@@ -1,7 +1,7 @@
-# WordPress Ipsum Generator Plugin
+# WP Ipsum Generator Plugin
 
 ## Description
-Welcome to the WordPress Ipsum Generator, where 'lorem ipsum dolor sit amet' gets a techy twist! Our plugin spices up your placeholder text with a smorgasbord of WordPress jargon, perfect for confusing clients and making colleagues laugh.
+Welcome to the WP Ipsum Generator, where 'lorem ipsum dolor sit amet' gets a techy twist! Our plugin spices up your placeholder text with a smorgasbord of WordPress jargon, perfect for confusing clients and making colleagues laugh.
 
 ## Demo
 See the demo here: [WordPress Ipsum Generator on CodeinWP](https://www.codeinwp.com/wp-ipsum-generator/)
